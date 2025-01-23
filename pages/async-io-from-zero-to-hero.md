@@ -3,7 +3,9 @@ title: Python async.io - From zero to hero with Eyal Balla
 timestamp: 2025-01-22T20:10:01
 author: szabgab
 published: true
-description:
+description:Asyncio is a cool part of python. But what does it do? 
+It is a way to write async code in python. 
+This lecture shows use real world use cases, knowhows and troubleshooting methods for using asyncio in python
 ---
 
 
